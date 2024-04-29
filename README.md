@@ -14,7 +14,8 @@
 
 选择登入，输入账号密码之后就完成了账号的创建。
 
-## 建立一个xxDataMining
+## 建立一个xxDataMining![image](https://github.com/hl7321/hlDataMining/assets/168425249/0e8ae6bb-4b9c-440e-b9fa-9b6e07cb99f0)
+
 
 ## 上传自己的ppt到hlDataMining中
 
